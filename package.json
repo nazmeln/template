@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel ./src/index.html --open",
-    "build": "rm -rf ./dist && parcel build ./src/index.html -- public-url ./",
+    "build": "rm -rf ./dist && parcel build ./src/index.html --public-url ./",
     "lint:js": "eslint ./src",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint:css": "stylelint ./src",
