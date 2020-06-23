@@ -1,0 +1,5 @@
+# Template for FE projects
+ - ESlint
+ - Stylelint
+- Linthtml
+- SCSS
