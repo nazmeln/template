@@ -12,7 +12,7 @@
     "lint:html": "linthtml ./src",
     "lint": "concurrently \"npm run lint:js\" \"npm run lint:css\" \"npm run lint:html\"",
     "predeploy": "npm run build",
-    "deploy": "sh ./deploy.sh"
+    "deploy": "zsh ./deploy.sh"
   },
   "keywords": [
     "boilerplate",
