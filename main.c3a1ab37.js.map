@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["console","log"],"mappings":";AACA,aAEAA,QAAQC,IAAI,GACZD,QAAQC,IAAI","file":"main.c3a1ab37.js","sourceRoot":"../src","sourcesContent":["/* eslint-disable no-console */\n'use strict';\n\nconsole.log(1 + 2);\nconsole.log(5 - 3);\n"]}
